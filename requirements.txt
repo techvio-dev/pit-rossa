@@ -1,0 +1,12 @@
+# PitRossa requirements (auto-generated on Python 3.11.15)
+
+fastf1==3.8.3           # F1 timing/weather data; Phases 1-4 only (needs internet)
+pandas==2.3.3
+numpy==2.4.6
+scikit-learn==1.9.0     # >= 1.4 required for root_mean_squared_error
+scipy==1.17.1
+matplotlib==3.11.0
+xgboost==3.2.0          # one row of the model-comparison table
+jupyter==1.1.1          # notebook runtime
+notebook==7.5.7         # notebook runtime
+ipykernel==7.3.0        # notebook runtime
